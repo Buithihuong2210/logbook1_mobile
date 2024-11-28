@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Length Converter App</string>
+    <string name="header">Length Converter</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="hint_from_unit">From Unit</string>
+    <string name="hint_to_unit">To Unit</string>
+    <string name="convert">Convert</string>
+    <string name="result_default">Result will be displayed here</string>
+    <string name="toast_invalid_number">Please enter a valid number</string>
+</resources>
